@@ -10,7 +10,7 @@
 
 #### Portfolio Note
 
-The projects in this portfolio are intentionally designed to **simulate the real workflows of an Identity & Access Management (IAM) Engineer working in enterprise environments** - built from 12 years at Globe Life with 5+ years in IAM production.
+The projects in this portfolio are intentionally designed to **simulate the real workflows of an Identity & Access Management (IAM) Engineer working in enterprise environments** - built from 12 years at Globe Life with 5 years in IAM production.
 
 Each project focuses on practical enterprise IAM tasks such as **identity lifecycle automation (JML), RBAC design, access governance, privileged access management, Zero Trust, and integration between systems like Active Directory, Okta, and Microsoft Entra ID**.
 
@@ -29,8 +29,8 @@ SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 `Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance`
 
 **🔹 [Sanjeev-IAM-HomeLab-Portfolio](https://github.com/sanjeev0276/Sanjeev-IAM-HomeLab-Portfolio)**
-Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - built for real prod issues
-`Entra ID | Hybrid AD | Conditional Access | PIM | Terraform | PowerShell`
+Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating enterprise IAM scenarios across
+`Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform | PowerShell`
 
 ---
 
