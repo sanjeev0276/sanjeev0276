@@ -19,21 +19,11 @@ Each project focuses on practical enterprise IAM tasks such as **identity lifecy
 The goal is to demonstrate **how an IAM Engineer with 20 years of IT experience designs, automates, and manages identity systems at scale**, using scripting (PowerShell, Python), identity platforms, Terraform IaC, and security best practices to enforce consistent access control across hybrid environments.
 
 ---
-### 🏗️ IAM Architecture - How My Labs Work
+### 🏗️ IAM Architecture - Okta-IAM-Lab-Series (6 Labs) - My Main Lab
 
-```mermaid
-flowchart LR
-    AD["AD allenlab.local"] --> Okta["Okta Workforce Identity Cloud"]
-    Okta --> RBAC["RBAC - Group Rules - 30 plus assignments"]
-    RBAC --> SAML["SAML SSO - Slack Workspace SharePoint - 3 apps"]
-    SAML --> MFA["MFA Adaptive plus Step-Up - Zero Trust"]
-    MFA --> JML["JML Automation - PowerShell CSV - 8 steps to 1 script"]
-    JML --> TF["Terraform IaC - Azure AWS"]
-    TF --> Gov["Access Governance - 12 orphaned remediated"]
-```
+**End-to-end flow: AD allenlab.local → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
 
-**Lab Scale:** 50-user simulation | 30+ RBAC audited | 12 orphaned remediated | 8 manual steps (~2 hrs) → 1 script (~15 mins) | Pattern repeatable for 500+ enterprise
-
+![IAM Architecture Horizontal](./IAM_Architecture_Horizontal.png)
 
 ### Identity & Access Management Labs
 
