@@ -1,16 +1,12 @@
 ![MODERN IAM STACK](./IAM_Banner.png)
 ### Sanjeev Shrestha
----
-### 📬 Personal Information
-🛡 U.S. Citizen | 📍 Allen, TX - DFW | IAM Engineer roles
-🔗 LinkedIn: linkedin.com/in/sanjeev-shrestha-iam | 💻 github.com/sanjeev0276
-
-
-#### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | 20 Years IT Experience | Globe Life (2014-2026)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjeevshresthaallentx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeevshresthaallentx/)
+#### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | 20 Years IT Experience | Globe Life (2014-2026) | Mid to Senior
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjeevshresthaallentx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeev-shrestha-iam)
 [![Location](https://img.shields.io/badge/Location-Allen%2C%20TX%20%7C%20DFW-green)]()
 [![Focus](https://img.shields.io/badge/Focus-Identity%20%26%20Access%20Management-orange)]()
+
+🛡 **U.S. Citizen** | 📍 **Allen, TX - DFW** | IAM Engineer roles
+🔗 LinkedIn: linkedin.com/in/sanjeev-shrestha-iam | 💻 github.com/sanjeev0276
 
 ---
 
