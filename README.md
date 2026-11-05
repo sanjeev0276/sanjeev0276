@@ -1,6 +1,6 @@
 ### Sanjeev Shrestha
 
-#### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | 20 Years IT Experience @ Globe Life (2014-2026)
+#### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | 20 Years IT Experience | Globe Life (2014-2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjeevshresthaallentx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeevshresthaallentx/)
 [![Location](https://img.shields.io/badge/Location-Allen%2C%20TX%20%7C%20DFW-green)]()
@@ -10,7 +10,7 @@
 
 #### Portfolio Note
 
-The projects in this portfolio are intentionally designed to **simulate the real workflows of an Identity & Access Management (IAM) Engineer working in enterprise environments** - built from 12.5 years at Globe Life (2014-2026) with 5+ years in IAM production.
+The projects in this portfolio are intentionally designed to **simulate the real workflows of an Identity & Access Management (IAM) Engineer working in enterprise environments** - built from 12 years at Globe Life with 5+ years in IAM production.
 
 Each project focuses on practical enterprise IAM tasks such as **identity lifecycle automation (JML), RBAC design, access governance, privileged access management, Zero Trust, and integration between systems like Active Directory, Okta, and Microsoft Entra ID**.
 
@@ -34,6 +34,6 @@ Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - built for r
 
 ---
 
-**Current Focus:** SailPoint IIQ Training with Harshat (Nov 15, 2026 - Feb 2027) | TechFios IAM Program (Enrico Gonsalves) | Targeting IAM Engineer roles Jan 2027 - DFW / Plano / Frisco / Richardson
+**Current Focus:** SailPoint IIQ Training | TechFios IAM Program | Targeting IAM Engineer roles Jan 2027 - DFW / Plano / Frisco / Richardson
 
 **Stack:** Okta | Microsoft Entra ID | SailPoint | SAML/OIDC SSO | MFA | RBAC | JML | Terraform | PowerShell | Python | SQL | Azure | AWS
