@@ -19,15 +19,19 @@ The goal is to demonstrate **how an IAM Engineer with 20 years of IT experience 
 
 ---
 ### 🏗️ IAM Architecture - How My Labs Work
+
 ```mermaid
 flowchart LR
-    AD[AD allenlab.local] --> Okta[Okta Workforce Identity Cloud]
-    Okta --> RBAC[RBAC - Group Rules - 30+ assignments]
-    RBAC --> SAML[SAML SSO - Slack/【entity-Workspace¦canonical_name=Google Workspace】/SharePoint - 3 apps]
-    SAML --> MFA[MFA Adaptive + Step-Up - Zero Trust]
-    MFA --> JML[JML Automation - PowerShell CSV - 8 steps -> 1 script]
-    JML --> TF[Terraform IaC - Azure/AWS]
-    TF --> Gov[Access Governance - 12 orphaned remediated]
+    AD["AD allenlab.local"] --> Okta["Okta Workforce Identity Cloud"]
+    Okta --> RBAC["RBAC - Group Rules - 30 plus assignments"]
+    RBAC --> SAML["SAML SSO - Slack Workspace SharePoint - 3 apps"]
+    SAML --> MFA["MFA Adaptive plus Step-Up - Zero Trust"]
+    MFA --> JML["JML Automation - PowerShell CSV - 8 steps to 1 script"]
+    JML --> TF["Terraform IaC - Azure AWS"]
+    TF --> Gov["Access Governance - 12 orphaned remediated"]
+```
+
+**Lab Scale:** 50-user simulation | 30+ RBAC audited | 12 orphaned remediated | 8 manual steps (~2 hrs) → 1 script (~15 mins) | Pattern repeatable for 500+ enterprise
 
 
 ### Identity & Access Management Labs
