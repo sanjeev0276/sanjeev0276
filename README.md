@@ -1,5 +1,10 @@
 ![MODERN IAM STACK](./IAM_Banner.png)
 ### Sanjeev Shrestha
+---
+### 📬 Personal Information
+🛡 U.S. Citizen | 📍 Allen, TX - DFW | IAM Engineer roles
+🔗 LinkedIn: linkedin.com/in/sanjeev-shrestha-iam | 💻 github.com/sanjeev0276
+
 
 #### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | 20 Years IT Experience | Globe Life (2014-2026)
 
