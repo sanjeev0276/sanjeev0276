@@ -27,7 +27,6 @@ AD allenlab.local → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/Shar
 **🔹 [Sanjeev-Okta-Workforce-IAM-Lab](https://github.com/sanjeev0276/Sanjeev-Okta-Workforce-IAM-Lab) - 5 Labs**
 SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 `Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance`
-![](https://komarev.com/ghpvc/?username=sanjeev0276&color=blue&style=flat&label=Profile+Views)
 
 **🔹 [Sanjeev-IAM-HomeLab-Portfolio](https://github.com/sanjeev0276/Sanjeev-IAM-HomeLab-Portfolio)**
 Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - built for real prod issues
