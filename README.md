@@ -1,3 +1,4 @@
+![MODERN IAM STACK](./IAM_Banner.png)
 ### Sanjeev Shrestha
 
 #### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | 20 Years IT Experience | Globe Life (2014-2026)
