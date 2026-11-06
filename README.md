@@ -45,4 +45,11 @@ Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating 
 
 **Stack:** Okta | Microsoft Entra ID | SailPoint | SAML/OIDC SSO | MFA | RBAC | JML | Terraform | PowerShell | Python | SQL | Azure | AWS
 
+![Okta](https://img.shields.io/badge/Okta-Workforce_IAM-007DC1?style=flat-square&logo=okta&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-P2-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SAML 2.0](https://img.shields.io/badge/SAML-2.0-FF6A00?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-000000?style=flat-square)
+
 📧 sanjeev0276@gmail.com | 🔓 Open to IAM Engineer roles | 🛡️ 925 LinkedIn followers | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
