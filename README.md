@@ -44,5 +44,5 @@ Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating 
 **Current Focus:** SailPoint IIQ Training | TechFios IAM Program | Targeting IAM Engineer roles Jan 2027 - DFW / Plano / Frisco / Richardson
 
 **Stack:** Okta | Microsoft Entra ID | SailPoint | SAML/OIDC SSO | MFA | RBAC | JML | Terraform | PowerShell | Python | SQL | Azure | AWS
----
-📧 sanjeev0276@gmail.com | 🔓 Open to IAM Engineer roles | 🛡️ 925 LinkedIn followers | 🔗 https://linkedin.com/in/sanjeevshresthaallentx
+
+📧 sanjeev0276@gmail.com | 🔓 Open to IAM Engineer roles | 🛡️ 925 LinkedIn followers | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
