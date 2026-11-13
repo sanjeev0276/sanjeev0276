@@ -1,7 +1,7 @@
 ![MODERN IAM STACK](./IAM_Banner.png)
 ### Sanjeev Shrestha
 
-🛡 **U.S. Citizen** | 📍**DFW Metroplex, Texas, USA** | 🔗 linkedin.com/in/sanjeev-shrestha-iam | 💻 github.com/sanjeev0276
+🛡 **U.S. Citizen** | 📍**DFW Metroplex, Texas, USA** | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam | 💻 (https://github.com/sanjeev0276)
 
 #### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | 20 Years IT Experience | Globe Life (2014-2026) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjeevshresthaallentx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeev-shrestha-iam)
@@ -52,4 +52,4 @@ Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating 
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-000000?style=flat-square)
 
-📧 sanjeev0276@gmail.com | 🔓 Open to IAM Engineer roles | 🛡️ 925 LinkedIn followers | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
+📧 sanjeev0276@gmail.com | 🔓 Open to IAM Engineer roles | 🛡️ 1106 LinkedIn followers | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
