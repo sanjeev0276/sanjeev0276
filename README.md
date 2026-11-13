@@ -12,11 +12,11 @@
 
 #### Portfolio Note
 
-The projects in this portfolio are intentionally designed to **simulate the real workflows of an Identity & Access Management (IAM) Engineer working in enterprise environments** - built from 12 years at Globe Life with 5 years in IAM production.
+The projects in this portfolio are intentionally designed to **simulate the real workflows of an Identity & Access Management (IAM) Engineer working in enterprise environments** 
 
 Each project focuses on practical enterprise IAM tasks such as **identity lifecycle automation (JML), RBAC design, access governance, privileged access management, Zero Trust, and integration between systems like Active Directory, Okta, and Microsoft Entra ID**.
 
-The goal is to demonstrate **how an IAM Engineer with 20 years of IT experience designs, automates, and manages identity systems at scale**, using scripting (PowerShell, Python), identity platforms, Terraform IaC, and security best practices to enforce consistent access control across hybrid environments.
+The goal is to demonstrate **how an IAM Engineer designs, automates, and manages identity systems at scale**, using scripting (PowerShell, Python), identity platforms, Terraform IaC, and security best practices to enforce consistent access control across hybrid environments.
 
 ---
 ### 🏗️ IAM Architecture - Okta-IAM-Lab-Series (6 Labs) - My Main Lab
