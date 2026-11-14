@@ -31,7 +31,7 @@ The goal is to demonstrate **how an IAM Engineer designs, automates, and manages
 AD allenlab.local → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/SharePoint → MFA Adaptive Zero Trust → JML Automation PowerShell CSV Batch
 PowerShell | Okta Workforce | SAML 2.0 | MFA | RBAC | JML
 
-**🔹 [Sanjeev-Okta-Workforce-IAM-Lab](https://github.com/sanjeev0276/Sanjeev-Okta-Workforce-IAM-Lab) - 5 Projects**
+**🔹 [Okta Workforce IAM](https://github.com/sanjeev0276/Sanjeev-Okta-Workforce-IAM-Lab) - 5 Projects**
 SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance
 
