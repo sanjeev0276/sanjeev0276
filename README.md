@@ -19,7 +19,7 @@ Each project focuses on practical enterprise IAM tasks such as **identity lifecy
 The goal is to demonstrate **how an IAM Engineer designs, automates, and manages identity systems at scale**, using scripting (PowerShell, Python), identity platforms, Terraform IaC, and security best practices to enforce consistent access control across hybrid environments.
 
 ---
-### 🏗️ IAM Architecture - Okta-IAM-Lab-Series (6 Labs)
+### 🏗️ IAM Architecture - Okta IAM Series (6 Projects)
 
 **End-to-end flow: AD allenlab.local → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
 
@@ -31,13 +31,13 @@ The goal is to demonstrate **how an IAM Engineer designs, automates, and manages
 AD allenlab.local → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/SharePoint → MFA Adaptive Zero Trust → JML Automation PowerShell CSV Batch
 `PowerShell | Okta Workforce | SAML 2.0 | MFA | RBAC | JML`
 
-**🔹 [Sanjeev-Okta-Workforce-IAM-Lab](https://github.com/sanjeev0276/Sanjeev-Okta-Workforce-IAM-Lab) - 5 Labs**
+**🔹 [Sanjeev-Okta-Workforce-IAM-Lab](https://github.com/sanjeev0276/Sanjeev-Okta-Workforce-IAM-Lab) - 5 Projects**
 SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 `Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance`
 
-**🔹 [IAM Home Portfolio](https://github.com/sanjeev0276/Sanjeev-IAM-HomeLab-Portfolio)**
+**🔹 [IAM Home Portfolio](https://github.com/sanjeev0276/IAM-Home-Portfolio)**
 Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating enterprise IAM scenarios across
-`Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform | PowerShell`
+Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform | PowerShell
 
 ---
 
