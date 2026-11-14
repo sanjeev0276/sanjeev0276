@@ -1,7 +1,7 @@
 ![MODERN IAM STACK](./IAM_Banner.png)
 ### Sanjeev Shrestha
 
-🛡 **U.S. Citizen** | 📍**DFW Metroplex, Texas, USA** | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam | 💻 (https://github.com/sanjeev0276)
+🛡 **U.S. Citizen** | 📍**DFW Metroplex, Texas, USA** | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam | 💻 https://github.com/sanjeev0276
 
 #### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | 20 Years IT Experience | Globe Life (2014-2026) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjeevshresthaallentx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeev-shrestha-iam)
@@ -19,9 +19,9 @@ Each project focuses on practical enterprise IAM tasks such as **identity lifecy
 The goal is to demonstrate **how an IAM Engineer designs, automates, and manages identity systems at scale**, using scripting (PowerShell, Python), identity platforms, Terraform IaC, and security best practices to enforce consistent access control across hybrid environments.
 
 ---
-### 🏗️ IAM Projects (3 Projects)
+### 🏗️ IAM Projects (3 Projects - Completed)
 
-**Okta IAM Series Architecture Diagram: AD allenlab.local → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
+**Okta IAM Series - Architecture Diagram: AD allenlab.local → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
 
 ![IAM Architecture Horizontal](./IAM_Architecture_Horizontal.png)
 
@@ -52,4 +52,4 @@ Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform |
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-000000?style=flat-square)
 
-📧 sanjeev0276@gmail.com | 🔓 Open to IAM Engineer roles | 🛡️ 1120 LinkedIn followers | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
+🔓 Open to IAM roles | 🛡️ 1120 LinkedIn followers | 🛡️ 500+ LinkedIn connections| 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
