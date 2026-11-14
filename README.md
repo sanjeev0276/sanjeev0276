@@ -25,7 +25,7 @@ The goal is to demonstrate **how an IAM Engineer designs, automates, and manages
 
 ![IAM Architecture Horizontal](./IAM_Architecture_Horizontal.png)
 
-### Identity & Access Management Projects
+### 🏗️ Identity & Access Management Projects
 
 **🔹 [Okta IAM Series](https://github.com/sanjeev0276/Okta-IAM-Lab-Series) - 6 Labs:**
 AD allenlab.local → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/SharePoint → MFA Adaptive Zero Trust → JML Automation PowerShell CSV Batch
@@ -52,4 +52,4 @@ Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform |
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-000000?style=flat-square)
 
-📧 sanjeev0276@gmail.com | 🔓 Open to IAM Engineer roles | 🛡️ 1106 LinkedIn followers | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
+📧 sanjeev0276@gmail.com | 🔓 Open to IAM Engineer roles | 🛡️ 1120 LinkedIn followers | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
