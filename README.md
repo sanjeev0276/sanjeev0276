@@ -25,17 +25,17 @@ The goal is to demonstrate **how an IAM Engineer designs, automates, and manages
 
 ![IAM Architecture Horizontal](./IAM_Architecture_Horizontal.png)
 
-### Identity & Access Management Labs
+### Identity & Access Management Projects
 
-**🔹 [Okta IAM Series](https://github.com/sanjeev0276/Okta-IAM-Lab-Series) - 6 Projects:**
+**🔹 [Okta IAM Series](https://github.com/sanjeev0276/Okta-IAM-Lab-Series) - 6 Labs:**
 AD allenlab.local → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/SharePoint → MFA Adaptive Zero Trust → JML Automation PowerShell CSV Batch
 PowerShell | Okta Workforce | SAML 2.0 | MFA | RBAC | JML
 
-**🔹 [Okta Workforce IAM](https://github.com/sanjeev0276/Sanjeev-Okta-Workforce-IAM-Lab) - 5 Projects:**
+**🔹 [Okta Workforce IAM](https://github.com/sanjeev0276/Sanjeev-Okta-Workforce-IAM-Lab) - 5 Labs:**
 SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance
 
-**🔹 [IAM Home Portfolio](https://github.com/sanjeev0276/IAM-Home-Portfolio/blob/main/README.md) - 6 Projects:**
+**🔹 [IAM Home Portfolio](https://github.com/sanjeev0276/IAM-Home-Portfolio/blob/main/README.md) - 6 Labs:**
 Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating enterprise IAM scenarios across
 Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform | PowerShell
 
