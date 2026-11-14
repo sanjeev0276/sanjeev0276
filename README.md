@@ -35,7 +35,7 @@ AD allenlab.local → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/Shar
 SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 `Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance`
 
-**🔹 [Sanjeev-IAM-HomeLab-Portfolio](https://github.com/sanjeev0276/Sanjeev-IAM-HomeLab-Portfolio)**
+**🔹 [IAM Home Portfolio](https://github.com/sanjeev0276/Sanjeev-IAM-HomeLab-Portfolio)**
 Dallas IAM Engineer labs: AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating enterprise IAM scenarios across
 `Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform | PowerShell`
 
