@@ -27,7 +27,7 @@ The goal is to demonstrate **how an IAM Engineer designs, automates, and manages
 
 ### Identity & Access Management Labs
 
-**🔹 [Okta-IAM-Lab-Series](https://github.com/sanjeev0276/Okta-IAM-Lab-Series) - 6 Projects**
+**🔹 [Okta IAM Series](https://github.com/sanjeev0276/Okta-IAM-Lab-Series) - 6 Projects**
 AD allenlab.local → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/SharePoint → MFA Adaptive Zero Trust → JML Automation PowerShell CSV Batch
 PowerShell | Okta Workforce | SAML 2.0 | MFA | RBAC | JML
 
