@@ -3,7 +3,7 @@
 
 🛡 **U.S. Citizen** | 📍**DFW Metroplex, Texas (InPerson/Hybrid) or Remote USA** | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam 
 
-#### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | SailPoint | 20 Years IT Experience 
+#### IAM Engineer | Okta Workforce IAM | Microsoft Entra ID | SailPoint | 15+ Years Enterprise IT 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjeevshresthaallentx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeev-shrestha-iam)
 [![Location](https://img.shields.io/badge/Location-Allen%2C%20TX%20%7C%20DFW-green)]()
 [![Focus](https://img.shields.io/badge/Focus-Identity%20%26%20Access%20Management-orange)]()
@@ -19,7 +19,7 @@ Each project focuses on practical enterprise IAM tasks such as **identity lifecy
 The goal is to demonstrate **how an IAM Engineer designs, automates, and manages identity systems at scale**, using scripting (PowerShell, Python), identity platforms, Terraform IaC,SQL, and security best practices to enforce consistent access control across hybrid environments.
 
 ---
-### 🏗️ IAM Projects (3 Projects - Completed)
+### 🏗️ IAM Projects (3 Projects - 17 Labs Completed)
 
 **Okta IAM Series - Architecture Diagram: AD allenlab.local → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
 
