@@ -1,4 +1,4 @@
-![MODERN IAM STACK](./IAM_Banner.png)
+![MODERN IAM STACK](./IAM_Banner_GitHub.png)
 ### Sanjeev Shrestha
 
 🛡 **U.S. Citizen** | 📍**DFW Metroplex, Texas (InPerson/Hybrid) or Remote USA** | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam 
