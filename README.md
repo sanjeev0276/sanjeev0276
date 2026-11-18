@@ -43,8 +43,7 @@ Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform |
 
 **Current Focus:** SailPoint IIQ Training | TechFios IAM Program | Targeting IAM Engineer roles Jan 2027 - DFW / Plano / Frisco / Richardson
 
-**Stack:** Okta | Microsoft Entra ID | SailPoint | SAML/OIDC SSO | MFA | RBAC | JML | Terraform | PowerShell | Python | SQL | Azure | AWS
-
+**Stack:** Okta | SailPoint IGA | Microsoft Entra ID | Active Directory | Azure | AWS | PowerShell | Python | SQL | Terraform | SAML | OIDC | OAuth 2.0 | SSO | MFA | RBAC | ABAC | JML
 ![Okta](https://img.shields.io/badge/Okta-Workforce_IAM-007DC1?style=flat-square&logo=okta&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-P2-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![SAML 2.0](https://img.shields.io/badge/SAML-2.0-FF6A00?style=flat-square)
