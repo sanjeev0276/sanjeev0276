@@ -1,7 +1,7 @@
 ![MODERN IAM STACK](./IAM_Banner_GitHub.png)
 ### Sanjeev Shrestha
 
-🛡 **U.S. Citizen** | 📍**DFW Metroplex, Texas (InPerson/Hybrid) or Remote USA** | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam 
+🛡 **U.S. Citizen** | 📍**DFW Metroplex, Texas (In-Person/Hybrid) or Remote USA** | 🔗 www.linkedin.com/in/sanjeev-shrestha-iam 
 
 #### 🔐 IAM Engineer | Okta | SailPoint IGA | Microsoft Entra ID | Active Directory | 15+ Years Enterprise IT 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjeevshresthaallentx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeev-shrestha-iam)
