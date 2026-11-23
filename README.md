@@ -19,7 +19,7 @@ Each project focuses on practical enterprise IAM tasks such as **identity lifecy
 The goal is to demonstrate **how an IAM Engineer designs, automates, and manages identity systems at scale**, using scripting (PowerShell, Python), identity platforms, Terraform IaC,SQL, and security best practices to enforce consistent access control across hybrid environments.
 
 ---
-### 🏗️ IAM Projects (3 Projects - 17 Labs Completed)
+### 🏗️ IAM Projects (3 Projects - 16 Labs Completed)
 
 **Okta IAM Series - Architecture Diagram: AD allenlab.local → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
 
