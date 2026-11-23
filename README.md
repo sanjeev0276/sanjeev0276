@@ -36,8 +36,7 @@ SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance
 
 **🔹 [IAM AD-EntraID Integration](https://github.com/sanjeev0276/IAM-AD-EntraID-Integration/blob/main/README.md) - 5 Labs:**
-AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating enterprise IAM scenarios across
-Active Directory | Entra ID | Hybrid AD | RBAC | Offboarding | Lockout | PowerShell
+AD Foundation, RBAC, Offboarding, Lockout, Entra Connect - Hybrid identity from on-prem AD to Microsoft Entra ID. PowerShell
 
 ---
 
