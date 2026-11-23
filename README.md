@@ -51,4 +51,4 @@ Active Directory | Entra ID | Hybrid AD | RBAC | Offboarding | Lockout | PowerSh
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-000000?style=flat-square)
 
-🔓 Open to IAM roles | 🛡️ 1350 LinkedIn followers | 🛡️ 500+ LinkedIn connections| 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
+🔓 Open to IAM roles | 🛡️ 1400 LinkedIn followers | 🛡️ 500+ LinkedIn connections| 🔗 www.linkedin.com/in/sanjeev-shrestha-iam
