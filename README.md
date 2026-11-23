@@ -35,9 +35,9 @@ PowerShell | Okta Workforce | SAML 2.0 | MFA | RBAC | JML
 SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance
 
-**🔹 [IAM AD-EntraID Integration and Access Governance](https://github.com/sanjeev0276/IAM-AD-EntraID-Integration-and-Access-Governance/blob/main/README.md) - 6 Labs:**
+**🔹 [IAM AD-EntraID Integration and Access Governance](https://github.com/sanjeev0276/IAM-AD-EntraID-Integration/blob/main/README.md) - 5 Labs:**
 AD, Entra ID, Okta, SSO, PIM, Zero Trust - Simulating enterprise IAM scenarios across
-Active Directory | Entra ID | Hybrid AD | Conditional Access | PIM | Terraform | PowerShell
+Active Directory | Entra ID | Hybrid AD | RBAC | Offboarding | Lockout | PowerShell
 
 ---
 
