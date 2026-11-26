@@ -28,11 +28,11 @@ The goal is to demonstrate **how an IAM Engineer designs, automates, and manages
 ### 🏗️ Identity & Access Management Projects
 
 **🔹 [IAM AD-Entra ID Integration](https://github.com/sanjeev0276/IAM-AD-EntraID-Integration/blob/main/README.md) - 5 Labs:**
-AD Foundation, RBAC, Offboarding, Lockout, Entra Connect - Hybrid identity from on-prem AD to Microsoft Entra ID.
+AD Foundation, RBAC, Offboarding, Lockout, Entra Connect - AD VMWare Workstation On-Prem to Microsoft Entra ID.
 Active Directory | Entra ID | Hybrid AD | RBAC | Offboarding | Lockout | PowerShell
 
 **🔹 [Okta IAM Series](https://github.com/sanjeev0276/Okta-IAM-Series/blob/main/README.md) - 6 Labs:**
-AD allenlab.local → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/SharePoint → MFA Adaptive Zero Trust → JML Automation PowerShell CSV Batch
+AD Azure VM (Windows Server 2025 DC) → Okta *.okta.com → RBAC → SAML SSO Slack/Workspace/SharePoint → MFA Adaptive Zero Trust → JML Automation PowerShell CSV Batch
 PowerShell | Okta Workforce | SAML 2.0 | MFA | RBAC | JML
 
 **🔹 [Okta Workforce IAM](https://github.com/sanjeev0276/Okta-Workforce-IAM/blob/main/README.md) - 5 Labs:**
