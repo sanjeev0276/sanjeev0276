@@ -21,7 +21,7 @@ The goal is to demonstrate **how an IAM Engineer designs, automates, and manages
 ---
 ### 🏗️ IAM Projects (3 Projects - 16 Labs Completed)
 
-**Okta IAM Series - Architecture Diagram: AD allenlab.local → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
+**Okta IAM Series - Architecture Diagram: AD Azure VM (Windows Server 2025 DC) → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
 
 ![IAM Architecture Horizontal](./IAM_Architecture_Horizontal.png)
 
