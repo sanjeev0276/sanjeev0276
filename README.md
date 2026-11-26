@@ -27,7 +27,7 @@ The goal is to demonstrate **how an IAM Engineer designs, automates, and manages
 
 ### 🏗️ Identity & Access Management Projects
 
-**🔹 [IAM AD-EntraID Integration](https://github.com/sanjeev0276/IAM-AD-EntraID-Integration/blob/main/README.md) - 5 Labs:**
+**🔹 [IAM AD-Entra ID Integration](https://github.com/sanjeev0276/IAM-AD-EntraID-Integration/blob/main/README.md) - 5 Labs:**
 AD Foundation, RBAC, Offboarding, Lockout, Entra Connect - Hybrid identity from on-prem AD to Microsoft Entra ID.
 Active Directory | Entra ID | Hybrid AD | RBAC | Offboarding | Lockout | PowerShell
 
