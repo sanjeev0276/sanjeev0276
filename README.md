@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjeevshresthaiam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeev-shrestha-iam)
 [![Location](https://img.shields.io/badge/Location-Allen%2C%20TX%20%7C%20DFW-green)]()
 [![Focus](https://img.shields.io/badge/Focus-Identity%20%26%20Access%20Management-orange)]()
+[![GitHub](https://img.shields.io/badge/GitHub-sanjeev0276-black?style=flat&logo=github)](https://github.com/sanjeev0276)
 
 ---
 
