@@ -8,9 +8,7 @@
 [![Location](https://img.shields.io/badge/Location-Allen%2C%20TX%20%7C%20DFW-green)]()
 [![Focus](https://img.shields.io/badge/Focus-Identity%20%26%20Access%20Management-orange)]()
 [![GitHub](https://img.shields.io/badge/GitHub-sanjeev0276-black?style=flat&logo=github)](https://github.com/sanjeev0276)
-
 ---
-
 #### Portfolio Note
 
 The projects in this portfolio are intentionally designed to **simulate the real workflows of an Identity & Access Management (IAM) Engineer working in enterprise environments** 
