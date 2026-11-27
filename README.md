@@ -16,14 +16,7 @@ Each project focuses on practical enterprise IAM tasks such as **identity lifecy
 The goal is to demonstrate **how an IAM Engineer designs, automates, and manages identity systems at scale**, using scripting (PowerShell, Python), identity platforms, Terraform IaC,SQL, and security best practices to enforce consistent access control across hybrid environments.
 
 ---
-### 🏗️ IAM Projects (3 Projects - 16 Labs Completed)
-
-**Okta IAM Series - Architecture Diagram: AD Azure VM (Windows Server 2025 DC) → Okta Workforce Identity Cloud → RBAC → SAML SSO → MFA Zero Trust → JML Automation → Governance - 50-user simulation, 30+ RBAC, 12 orphaned remediated**
-
-![IAM Architecture Horizontal](./IAM_Architecture_Horizontal.png)
-
-### 🏗️ Identity & Access Management Projects
-
+### 🏗️ GitHub: IAM Projects (3 Projects - 16 Labs Completed)
 **🔹 [AD-Entra ID Integration Project](https://github.com/sanjeev0276/IAM-AD-EntraID-Integration/blob/main/README.md) - 5 Labs:**
 AD Foundation, RBAC, Offboarding, Lockout, Entra Connect - AD VMWare Workstation On-Prem to Microsoft Entra ID.
 Active Directory | Entra ID | Hybrid AD | RBAC | Offboarding | Lockout | PowerShell
@@ -36,13 +29,10 @@ PowerShell | Okta Workforce | SAML 2.0 | MFA | RBAC | JML
 SAML SSO, RBAC, MFA, JML Lifecycle, Group Rules and Access Governance
 Okta | SAML/OIDC SSO | RBAC | Lifecycle | Access Governance
 
-
-
 ---
+**Current Focus:** SailPoint IIQ Training | TechFios IAM Program | Targeting IAM/IGA Engineer roles Jan 2027 DFW In-Person/Hybrid or US Remote
 
-**Current Focus:** SailPoint IIQ Training | TechFios IAM Program | Targeting IAM Engineer roles Jan 2027 - DFW / Plano / Frisco / Richardson
-
-**Stack:** Okta | SailPoint IGA | Microsoft Entra ID | Active Directory  PowerShell | Python | SQL | Terraform | Azure | AWS | SAML | OIDC | OAuth 2.0 | SSO | MFA | RBAC | ABAC | JML <br><br>
+**Stack:** Okta | SailPoint IGA | Microsoft Entra ID | Active Directory | PowerShell | Python | SQL | Terraform | Azure | AWS | SAML  <br><br>
 ![Okta](https://img.shields.io/badge/Okta-Workforce_IAM-007DC1?style=flat-square&logo=okta&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-P2-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![SAML 2.0](https://img.shields.io/badge/SAML-2.0-FF6A00?style=flat-square)
